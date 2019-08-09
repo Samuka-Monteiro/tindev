@@ -1,5 +1,7 @@
 # tindev
 
+![Logo](frontend/src/assets/logo.svg?raw=true "Title")
+
 Do you ever imagine a ```tinder``` app for developers? An application where devs can find each other and macth one another. Tindev is all about that. Created with **React.js(web version)**, **React Native(mobile version)** and using **socket.io** to comunicate with the backend in real time.
 
 ## How to set up the project
