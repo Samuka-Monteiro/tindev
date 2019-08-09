@@ -27,13 +27,5 @@ $ npm start or yarn start
 ```
 
 ### Mobile version
-#### Backend
-Follow the steps abode to set up your backend.
-#### Frontend
-This part is a little bit tricky. 
-Keep in mind that you need ```node.js``` and the package manager that comes with it ```npm``` for this to work. 
-I advice consulting the react native documentation or some online tutorial to better understanding.
-[React Native documentation](https://facebook.github.io/react-native/docs/running-on-device)
-
-Quick tip: always execute the command ```adb reverse tcp:3000 tcp:3000``` before run your project.
+Sadly i couldn't upload the react native project because it is too large.
 
