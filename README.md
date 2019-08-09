@@ -16,10 +16,15 @@ $ npm install or yarn add
 $ npm start or yarn start
 ```
 #### Frontend
-In the same way you have done in the backend go into your frontend folder through the command line and execute npm install or yarn add to install all the required dependencies.
+In the same way you have done in the backend go into your frontend folder through the command line and execute ```npm install``` or ```yarn add``` to install all the required dependencies.
 
 After execute ```npm start``` or ```yarn start``` to execute the app. A message will appears indicating that the port 3000 is alread bing used and asking to if it can use another port. Say yes (y) and automaticly a web page in the bowser is open and you will be good to go.
 
+```sh
+$ cd frontend
+$ npm install or yarn add
+$ npm start or yarn start
+```
 
 ### Mobile version
 #### Backend
