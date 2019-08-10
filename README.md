@@ -4,6 +4,8 @@
 
 Do you ever imagine a ```tinder``` app for developers? An application where devs can find each other and macth one another. Tindev is all about that. Created with **React.js(web version)**, **React Native(mobile version)** and using **socket.io** to comunicate with the backend in real time.
 
+<img src="img/login.PNG" width="250" height="200"> <img src="img/devs.PNG" width="320" height="200">
+
 ## How to set up the project
 
 ### Web version
@@ -31,3 +33,4 @@ $ npm start or yarn start
 ### Mobile version
 Sadly i couldn't upload the react native project because it is too large.
 
+  <img src="img/match.PNG" width="250" height="350">
